@@ -34,6 +34,7 @@ public class GameView extends JComponent {
 	 */
 	public GameView() {
 		this(40);
+                
 	}
 
 	/**
